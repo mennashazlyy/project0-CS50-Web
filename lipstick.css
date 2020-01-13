@@ -1,0 +1,21 @@
+body 
+{
+ 	  background-image: url("lip_stick.jpg");
+ 	  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ; 
+    background-size: cover;
+  }
+
+h1 {
+  font-size: 35px;
+  font-weight: bold;
+  margin-top: 5px;
+  font-style: Family;
+  color: #660000;
+  position: relative;
+  display: inline; 
+  background-color:#ffeee6;
+  text-align: center;
+  
+}

@@ -1,0 +1,35 @@
+body 
+{
+ 	    background-image: url("mascaras.jpg");
+ 	    background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center ; 
+      background-size: cover;
+  }
+
+h1 {
+  font-size: 35px;
+  font-weight: bold;
+  margin-top: 5px;
+  font-style: italic;
+  color: #007399; 
+  text-align: center;
+}
+p{
+  font-size: 22px;
+  background-color:#007399;
+  display: inline;
+  color : white;
+}
+
+
+ol {
+  font-size: 18px;
+  color: white
+  font-style: family;
+}
+
+table,th, td {
+  padding: 15px;
+  text-align: left;
+}

@@ -1,0 +1,16 @@
+body 
+{
+ 	   background-image:  url("foundation.jpg");
+ 	  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 500px 500px; 
+    background-position: center;
+    color: #C0C0C0;
+  }
+
+.size{
+  margin-top: 440px;
+  text-align: center;
+}
+
+

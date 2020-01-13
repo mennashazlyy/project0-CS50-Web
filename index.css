@@ -1,0 +1,22 @@
+
+
+body 
+	{
+	 	background-image: url("makeup.jpg");
+	   	background-repeat: no-repeat;
+	  	background-attachment: fixed;
+	  	background-position: center ; 
+	  	background-size: cover;
+ 	}
+
+
+.p{
+	font-size: 20px;
+  	font-weight: bold;
+  	font-style: oblique;
+  	color: #141f1f;
+  	text-align: center;
+  	margin-top: 488px;
+  	line-height: 1.6;
+  	background-color: white;
+ }
